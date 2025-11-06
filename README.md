@@ -15,6 +15,10 @@ Key insights:
 
 ##  Quick Start
 
+git clone https://github.com/SII-zyj/CX-Mind-private.git
+cd CX-Mind
+pip install -e .
+
 ### Environment Setup
 
 
