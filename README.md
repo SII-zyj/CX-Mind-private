@@ -49,7 +49,7 @@ pip install -e .
 
 
 ## Star Chart
-[![GitHub stars](https://img.shields.io/github/stars/SII-zyj/CX-Mind-private?style=social)](https://github.com/SII-zyj/CX-Mind-private/stargazers)
+[![Star History Chart](https://api.star-history.com/svg?repos=SII-zyj/CX-Mind-private&type=Date)](https://star-history.com/#SII-zyj/CX-Mind-private&Date)
 
 
 
