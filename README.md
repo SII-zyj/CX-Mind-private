@@ -12,6 +12,13 @@
 </figure>
 
 Key insights:
+- Large chest X-ray dataset with over 2 million entries across 23 datasets.
+- Novel training strategy boosts medical knowledge and reasoning in models.
+- First interleaved reasoning approach for clear medical model interpretability.
+- CX-Mind surpasses top medical reasoning models in extensive benchmark tests.
+- Real-world clinical dataset validates CX-Mind’s utility with expert reviews.
+
+
 
 ##  Quick Start
 
