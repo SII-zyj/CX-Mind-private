@@ -12,7 +12,7 @@
 Key insights:
 - Large chest X-ray dataset with over 2 million entries across 23 datasets.
 - Novel training strategy boosts medical knowledge and reasoning in models.
-- 
+
 <figure style="margin:16px auto; text-align:center;">
   <img src="docs/Figure 2.png"
        style="max-width:100%; width:900px; height:auto; border-radius:12px; box-shadow:0 4px 24px rgba(0,0,0,.08);" />
