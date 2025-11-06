@@ -15,14 +15,13 @@ Key insights:
 
 ##  Quick Start
 
+
+### Environment Setup
 ```bash
 git clone https://github.com/SII-zyj/CX-Mind-private.git
 cd CX-Mind
 pip install -e .
 ```
-
-### Environment Setup
-
 
 ### Start Training
 
